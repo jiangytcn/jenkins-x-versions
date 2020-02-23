@@ -9,7 +9,7 @@ repositories:
     urls:
       - https://storage.googleapis.com/chartmuseum.jenkins-x.io
       - http://chartmuseum.jenkins-x.io
-      - http://192.168.1.12:8080
+      - http://chartmuseum.int.caas.ystacks.com:8080
   - prefix: stable
     urls:
       - https://kubernetes-charts.storage.googleapis.com
